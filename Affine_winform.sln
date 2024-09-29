@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34031.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Affine_winform", "Affine_winform\Affine_winform.csproj", "{03B209B8-777F-47AD-A704-9A2B7DA1E2C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B209B8-777F-47AD-A704-9A2B7DA1E2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B209B8-777F-47AD-A704-9A2B7DA1E2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B209B8-777F-47AD-A704-9A2B7DA1E2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B209B8-777F-47AD-A704-9A2B7DA1E2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC1624FA-009A-4EE5-BDF3-0EE324901126}
+	EndGlobalSection
+EndGlobal
